@@ -32,24 +32,8 @@ I am a passionate Java Software Engineer with solid experience in software devel
 
 ---
 
-### 🅿️ **Default Park - Parking Management System**
-- **Status:** Completed
-- **Technologies:** Java, Spring Boot, Clean Architecture, PostgreSQL, Thymeleaf, Docker
-- **Description:** A system designed for parking management, developed as an academic project presented at FAITEC.
-- **Main Features:**
-  - Vehicle registration and real-time parking slot tracking.
-  - Automated billing and ticket management.
-  - User-friendly interface with Thymeleaf templates.
-  - RESTful APIs for external integrations.
-- **Architecture:**
-  - Clean Architecture for better maintainability and modularity.
-  - Uses Service and Repository layers for data management.
-- **Outcome:** Successfully presented at FAITEC, showcasing innovative solutions for parking management.
-
----
-
 ### 💊 **PharmaExpress - Pharmacy Information System**
-- **Status:** Completed
+- **Status:** Completed - 2024
 - **Technologies:** Java, Spring Boot, Clean Architecture, MySQL, JWT Authentication, REST APIs
 - **Description:** A comprehensive system for pharmacy management, focusing on medication tracking and customer service.
 - **Main Features:**
@@ -64,8 +48,24 @@ I am a passionate Java Software Engineer with solid experience in software devel
 
 ---
 
+### 🅿️ **Default Park - Parking Management System**
+- **Status:** Completed - 2023
+- **Technologies:** Java, Spring Boot, Clean Architecture, PostgreSQL, Thymeleaf, Docker
+- **Description:** A system designed for parking management, developed as an academic project presented at FAITEC.
+- **Main Features:**
+  - Vehicle registration and real-time parking slot tracking.
+  - Automated billing and ticket management.
+  - User-friendly interface with Thymeleaf templates.
+  - RESTful APIs for external integrations.
+- **Architecture:**
+  - Clean Architecture for better maintainability and modularity.
+  - Uses Service and Repository layers for data management.
+- **Outcome:** Successfully presented at FAITEC, showcasing innovative solutions for parking management.
+
+---
+
 ### 📦 **VEX - Demand Management System**
-- **Status:** Completed
+- **Status:** Completed - 2022
 - **Technologies:** Java, Spring Boot, Clean Architecture, MySQL, React Native.
 - **Description:** A system for managing and organizing specific demands.
 - **Main Features:**
