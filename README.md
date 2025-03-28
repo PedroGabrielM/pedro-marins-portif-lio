@@ -27,7 +27,6 @@ I am a passionate Java Software Engineer with solid experience in software devel
 - **Architecture:**
   - Follows Clean Architecture principles.
   - Uses Domain-Driven Design (DDD) concepts.
-  - Modular architecture with decoupled microservices.
 - **Challenges:** Ensuring scalability and modularity while maintaining high performance.
 
 ---
