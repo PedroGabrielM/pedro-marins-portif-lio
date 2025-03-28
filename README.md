@@ -17,7 +17,7 @@ I am a passionate Java Software Engineer with solid experience in software devel
 
 ### 🦅 **Eagle - Construction Service Management Platform**
 - **Status:** In Progress
-- **Technologies:** Java, Spring Boot, Spring Modulith, Event-Driven Architecture, MySQL, MongoDB, AWS, RabiitMQ
+- **Technologies:** Java, Spring Boot, Spring Modulith, DDD, MySQL, MongoDB, AWS, RabbitMQ
 - **Description:** Platform for managing construction services and professionals, connecting clients, contractors, and specialists. Implements a robust architecture using Spring Modulith for modularization and microservices communication.
 - **Main Features:**
   - User and authentication management with Spring Security.
